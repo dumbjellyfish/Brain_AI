@@ -22,8 +22,12 @@ from sklearn.tree import DecisionTreeClassifier
 
 
 #This creates the path to call my EEG data
+#
+#IMPORTANT!!!!
+#You will have to change the file path depending on where the Blink_data.csv is stored
+#
 
-D = r'C:\Users\asuka\OneDrive\Desktop\Emo\thing.csv'
+D = r'C:\Users\asuka\OneDrive\Desktop\Emo\Blink_data.csv'
 
 #Complete data set
 
